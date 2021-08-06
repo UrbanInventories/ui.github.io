@@ -4,6 +4,7 @@
 # used to be home
 
 layout: default 
+permalink: /ui.github.io/
 ---
 
 !![Paris Lille](/images/Paris_Lille_3D_GT7.jpg){:class="img-responsive"}
