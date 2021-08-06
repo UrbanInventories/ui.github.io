@@ -1,8 +1,9 @@
 ---
 layout: "page"
-title: "Data Visualizations"
+title: "Visualizations"
 permalink: /datavisualizations/
 ---
+**Data Visualizations**
 
 The Paris-Lille-3D Dataset was selected based on numerous factors. The dataset consists of 50 different classes of more than 140 million objects that were entirely labeled by hand. The large number of classes allows the classification of urban objects of various sizes and shapes.
 
