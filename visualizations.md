@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "Visualizations"
+title: "Data Visualizations"
 permalink: /datavisualizations/
 ---
 **Data Visualizations**
