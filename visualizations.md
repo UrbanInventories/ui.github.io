@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: "Data Visualizations"
-permalink: /datavisualizations/
+permalink: /ui.github.io/datavisualizations/
 ---
 **Data Visualizations**
 
