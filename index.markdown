@@ -7,7 +7,7 @@ layout: default
 permalink: /ui.github.io/
 ---
 
-!![Paris Lille](/images/Paris_Lille_3D_GT7.jpg){:class="img-responsive"}
+![Paris Lille](/images/Paris_Lille_3D_GT7.jpg){:class="img-responsive"}
 
 Cities would benefit greatly from being able to identify and catalog objects within the urban and built environments, whether it be for the purposes of guiding autonomous vehicles through haphazard urban streets or the preservation of the architectural heritage of the city. Ever evolving and advancing LiDAR technologies – such as terrestrial or aerial sensing – offer the potential for the realization of such endeavors. Researchers and data scientists have approached analyzing LiDAR data for the specific purpose of urban object segmentation and classification with various methods, most notably machine and deep learning. 
 
