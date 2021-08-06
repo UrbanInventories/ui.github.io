@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /ui.github.io/about/
 ---
 
 **Sean Andrew Chen**\
